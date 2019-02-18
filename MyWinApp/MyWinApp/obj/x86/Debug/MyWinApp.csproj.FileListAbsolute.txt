@@ -1,0 +1,10 @@
+D:\Proj\MyApp\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+D:\Proj\MyApp\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+D:\Proj\MyApp\MyWinApp\MyWinApp\obj\x86\Debug\MyWinApp.Form1.resources
+D:\Proj\MyApp\MyWinApp\MyWinApp\obj\x86\Debug\MyWinApp.Properties.Resources.resources
+D:\Proj\MyApp\MyWinApp\MyWinApp\obj\x86\Debug\MyWinApp.csproj.GenerateResource.Cache
+D:\Proj\MyApp\MyWinApp\MyWinApp\obj\x86\Debug\MyWinApp.exe
+D:\Proj\MyApp\MyWinApp\MyWinApp\obj\x86\Debug\MyWinApp.pdb
+D:\Proj\MyApp\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+D:\Proj\MyApp\MyWinApp\MyWinApp\obj\x86\Debug\MyWinApp.csprojResolveAssemblyReference.cache
+D:\Proj\MyApp\MyWinApp\MyWinApp\obj\x86\Debug\MyWinApp.frmIndex.resources
